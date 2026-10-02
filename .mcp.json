@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "horizon-shield": {
+      "type": "http",
+      "url": "https://mcp.horizonshield.dev"
+    },
+    "yakumo-contractors": {
+      "type": "http",
+      "url": "https://hearing.horizonshield.dev/mcp"
+    }
+  }
+}
